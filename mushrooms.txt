@@ -1,0 +1,5 @@
+White;yes;120.5;6.0;Coniferous forest
+Fox;yes;30.0;3.2;Deciduous forest
+Red fly agaric;no;45.0;7.5;Forest edge
+Champignon;yes;25.0;4.0;Forest and clearing
+Milk mushroom;no;80.0;5.5;Mixed forest
